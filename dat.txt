@@ -1,0 +1,3 @@
+Ovo je moja datoteka
+U nju smestam neki tekst
+Tekst nije boldova
